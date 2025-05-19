@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html{
+    font-family:sans-serif;
+    line-height:1.5;
+}
+header{
+    position: sticky;
+    top: 0px;
+    /* ***** */
+    background: #eee;
+}
+.enlaces{
+    display: inline-block;
+}
+/* ancho: width */
+/* alto: height */
+.logo { 
+    width: 150px;
+    height: 160px;
+
+}
